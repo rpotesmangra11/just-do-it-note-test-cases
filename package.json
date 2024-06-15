@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "note_tests": "npx cypress run --spec cypress/e2e/note-react-app.cy.js --reporter mochawesome"
+    "note-tests": "npx cypress run --spec cypress/e2e/note-react-app.cy.js --reporter mochawesome"
   },
   "keywords": [],
   "author": "",
